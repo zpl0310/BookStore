@@ -1,24 +1,22 @@
-# README
+# BookStore
+A database driven web app allowing customers to buy books,  and admins to manage inventory
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Basic Features:
+### Admin:
+1. Add or remove books to online store
+2. Save and make changes to all the information, name and price of a book
+3. Display all books to customers
+4. Authenticate a customer by username and password
 
-Things you may want to cover:
+### Customor:
+1. select books to shopping cart or remove books from shopping cart
+2. Display shopping cart and calculate total cost
+3. Login and Logout
+4. Place an order
+5. View order history
 
-* Ruby version
+## Requirements:
+1. Ruby programming and Ruby on Rails
+2. HTML and CSS knowledge
+3. Database knowledge: sqlite
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
